@@ -6,7 +6,7 @@ Sou um profissional em transição de carreira para o mundo da tecnologia em des
 
 ## Meu Objetivo
 
-Meu objetivo é me tornar uma desenvolvedora front-end habilidosa e contribuir para a criação de experiências web interativas e atraentes. Estou focada em aprimorar minhas habilidades em linguagens de front-end, como HTML, CSS e JavaScript, a fim de criar interfaces responsivas e funcionais que cativem os usuários.
+Meu objetivo é me tornar uma desenvolvedora front-end habilidosa e contribuir para a criação de experiências web interativas e atraentes. Estou focada em aprimorar minhas habilidades em linguagens de front-end, como HTML5, CSS3 e JavaScript, a fim de criar interfaces responsivas e funcionais que cativem os usuários.
 
 ## Minha Abordagem
 
