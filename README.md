@@ -1,18 +1,18 @@
 # Jaqueline Rabelo
 
-Olá, eu sou a Jaqueline Rabelo uma profissional em transição de carreira para o mundo da tecnologia. Sou mestre em Gestão, e formada em Administração de Empresas.
+Hi, I'm Jaqueline Rabelo, a professional transitioning to a career in the technology world. I have a master's degree in Management and a degree in Business Administration.
 
-Tenho o foco de estudos em HTML5 - CSS3 - JavaScript - NodeJs
+I have the focus of studies in HTML5 - CSS3 - JavaScript - Node.js
 
-### Sobre mim
+### About me
 
-<p align="justify">Acredito que minha bagagem de gestão possa auxiliar nessa nova experiência, trazendo uma combinação de habilidades de gestão e um olhar analítico para o universo da tecnologia.
+<p align="justify">I believe that my management background can help in this new experience, bringing a combination of management skills and an analytical look to the world of technology.
 <br>
 <br>
-⭐ Meu objetivo é me tornar uma desenvolvedora front-end habilidosa e contribuir para a criação de experiências web interativas e atraentes. 
+⭐ My goal is to become a skilled front-end developer and contribute to creating engaging and interactive web experiences. 
 </p>
 
-### Minhas habilidades
+### My skills
   
 [![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)](https://github.com/JaquelineRabelo/html-css)
 [![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)](https://github.com/JaquelineRabelo/html-css)
@@ -21,7 +21,7 @@ Tenho o foco de estudos em HTML5 - CSS3 - JavaScript - NodeJs
 
 ##
 
-### Conecte-se comigo
+### Connect with me
 <div> 
     <a href="https://www.linkedin.com/in/jaquelinerabelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:jaqueline.raabelo@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
