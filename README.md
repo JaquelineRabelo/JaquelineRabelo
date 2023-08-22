@@ -25,7 +25,6 @@ Tenho o foco de estudos em HTML5 - CSS3 - JavaScript - NodeJs
 <div> 
     <a href="https://www.linkedin.com/in/jaquelinerabelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:jaqueline.raabelo@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/jaquelineecavalcanti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
   
 </div>
