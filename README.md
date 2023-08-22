@@ -1,23 +1,37 @@
-# Olá, eu sou a Jaqueline Rabelo!
+# Jaqueline Rabelo
 
-## Sobre Mim
+Olá, eu sou a Jaqueline Rabelo uma profissional em transição de carreira para o mundo da tecnologia. Sou mestre em Gestão, e formada em Administração de Empresas.
 
-Sou um profissional em transição de carreira para o mundo da tecnologia em desenvolvimento front-end. Sou mestre em gestão, e acredito que tenho uma bagagem de gestão que possa auxiliar nessa nova experiência, trazendo uma combinação  de habilidades de gestão e um olhar analítico para o universo da tecnologia.
+Tenho o foco de estudos em HTML5 - CSS3 - JavaScript - NodeJs
 
-## Meu Objetivo
+### Sobre mim
 
-Meu objetivo é me tornar uma desenvolvedora front-end habilidosa e contribuir para a criação de experiências web interativas e atraentes. Estou focada em aprimorar minhas habilidades em linguagens de front-end, como HTML5, CSS3 e JavaScript, a fim de criar interfaces responsivas e funcionais que cativem os usuários.
+<p align="justify">Acredito que minha bagagem de gestão possa auxiliar nessa nova experiência, trazendo uma combinação de habilidades de gestão e um olhar analítico para o universo da tecnologia.
+<br>
+<br>
+⭐ Meu objetivo é me tornar uma desenvolvedora front-end habilidosa e contribuir para a criação de experiências web interativas e atraentes. 
+</p>
 
-## Minha Abordagem
-
-Com minha sólida formação acadêmica e experiência em gestão, sou capaz de abordar os desafios de desenvolvimento com e estratégicos de uma forma mais abrangente. Estou constantemente buscando aprender e adotar as melhores práticas da  para criar códigos limpos e eficientes.
-
-## Estudos
+### Minhas habilidades
+  
 [![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)](https://github.com/JaquelineRabelo/html-css)
 [![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)](https://github.com/JaquelineRabelo/html-css)
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)](https://github.com/JaquelineRabelo/javascript)
+</div>
+
+##
+
+### Conecte-se comigo
+<div> 
+    <a href="https://www.linkedin.com/in/jaquelinerabelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:jaqueline.raabelo@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/jaquelineecavalcanti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  
+</div>
+
+##
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaquelineRabelo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JaquelineRabelo&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-## Contatos
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:jaqueline.raabelo@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/jaquelinerabelo/)
