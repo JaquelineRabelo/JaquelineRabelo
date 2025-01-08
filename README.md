@@ -2,14 +2,14 @@
 
 Hi, I'm Jaqueline Rabelo, a professional transitioning to a career in the technology world. I have a master's degree in Management and a degree in Business Administration.
 
-I have the focus of studies in HTML5 - CSS3 - JavaScript - Node.js
+I have the focus of studies in HTML5 - CSS3 - JavaScript - C#
 
 ### About me
 
 <p align="justify">I believe that my management background can help in this new experience, bringing a combination of management skills and an analytical look to the world of technology.
 <br>
 <br>
-⭐ My goal is to become a skilled front-end developer and contribute to creating engaging and interactive web experiences. 
+⭐ My goal is to become a skilled developer Software and contribute to creating engaging and interactive web experiences. 
 </p>
 
 ### My skills
