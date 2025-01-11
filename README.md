@@ -21,7 +21,7 @@ I have the focus of studies in HTML5 - CSS3 - JavaScript - C#
 
 ##
 
-Portfólio em Construção<a href="https://jaquelinerabelo.github.io/portfolio/" target="_blank"> Portifólio - Jaqueline Rabelo</a>
+Portfólio em Construção<a href="https://jaquelinerabelo.github.io/MeuPortfolio/" target="_blank"> Portifólio - Jaqueline Rabelo</a>
 
 ### Connect with me
 <div> 
